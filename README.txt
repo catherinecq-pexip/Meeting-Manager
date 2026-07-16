@@ -1,10 +1,10 @@
 ================================================================================
- VICTORS MANAGEMENT SERVER (VMS)
+ VICTORIA'S MANAGEMENT SERVER (VMS)
 ================================================================================
 
 DESCRIPTION
 -----------
-Victors Management Server is a browser-based management and monitoring
+Victoria's Meeting Manager is a browser-based management and monitoring
 interface for Pexip Infinity video conferencing infrastructure. It runs
 entirely in a web browser with no installation required — open the HTML
 file directly on any device and it connects to your Pexip deployment via
